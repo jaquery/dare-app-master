@@ -1,0 +1,29 @@
+
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+# On branch master
+# Your branch is up-to-date with 'origin/master'.
+#
+# Changes to be committed:
+#	modified:   app/app/build.gradle
+#
+# Changes not staged for commit:
+#	modified:   app/app/src/main/java/com/dareapp/dares/MainActivity.java
+#	modified:   app/app/src/main/res/layout/activity_main.xml
+#	modified:   app/app/src/main/res/values/strings.xml
+#	modified:   app/local.properties
+#
+# Untracked files:
+#	app/.idea/
+#	app/app.iml
+#	app/app/app-app.iml
+#	app/app/src/main/java/com/dareapp/dares/Dare.java
+#app/app/src/main/java/com/dareapp/dares/Feed.java
+
+
+
+
+
+
+
+pdated sdk target
